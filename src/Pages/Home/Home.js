@@ -38,3 +38,4 @@ const Home = () => {
 };
 
 export default Home;
+//https://codefrontend.com/reactjs-redirect-to-url/
